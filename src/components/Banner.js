@@ -60,7 +60,7 @@ export const Banner = () => {
                   <p>I am a skilled and passionate professional who aims to contribute my expertise and experience towards the success of a dynamic organization. I am committed to continuously improving my skills while making a meaningful impact.</p>
                   
                  <a  style={{ textDecoration: 'none' }} href="#connect"><button>Let’s Connect <ArrowRightCircle size={25} /></button></a> 
-                 <a href="https://drive.google.com/file/d/1JpfnMkOFyZLPAmq2ZtdbFqIFWybo3S-m/view?usp=sharing" target="_blank"> <button id="res" className="tagline" >Get resume</button></a>
+                 <a href="https://drive.google.com/file/d/17XoTkHvYHpxR4u5_3pCLEsXGreI-uOHc/view?usp=sharing" target="_blank"> <button id="res" className="tagline" >Get resume</button></a>
               </div>}
             </TrackVisibility>
           </Col>
